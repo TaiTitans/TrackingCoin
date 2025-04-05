@@ -6,7 +6,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	service "github.com/augustus281/trackingcoin/internal/service/coinmarketcap"
+	service "github.com/TaiTitans/TrackingCoin/internal/service/coinmarketcap"
 )
 
 type CMCHandler struct {
