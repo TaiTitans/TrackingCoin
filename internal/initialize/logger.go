@@ -1,8 +1,8 @@
 package initialize
 
 import (
-	"github.com/augustus281/trackingcoin/global"
-	"github.com/augustus281/trackingcoin/pkg/logger"
+	"github.com/TaiTitans/TrackingCoin/global"
+	"github.com/TaiTitans/TrackingCoin/pkg/logger"
 )
 
 func InitLogger() {
