@@ -4,9 +4,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 
-	db "github.com/augustus281/trackingcoin/database/sqlc"
-	"github.com/augustus281/trackingcoin/global"
-	"github.com/augustus281/trackingcoin/internal/util"
+	db "github.com/TaiTitans/TrackingCoin/database/sqlc"
+	"github.com/TaiTitans/TrackingCoin/global"
+	"github.com/TaiTitans/TrackingCoin/internal/util"
 )
 
 type IUserRepository interface {
