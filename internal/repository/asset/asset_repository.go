@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	db "github.com/augustus281/trackingcoin/database/sqlc"
-	"github.com/augustus281/trackingcoin/global"
+	db "github.com/TaiTitans/TrackingCoin/database/sqlc"
+	"github.com/TaiTitans/TrackingCoin/global"
 )
 
 type IAssetRepository interface {
