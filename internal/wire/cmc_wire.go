@@ -5,9 +5,9 @@ package wire
 import (
 	"github.com/google/wire"
 
-	"github.com/augustus281/trackingcoin/internal/handler"
-	cmcRepo "github.com/augustus281/trackingcoin/internal/repository/coinmarketcap"
-	cmcService "github.com/augustus281/trackingcoin/internal/service/coinmarketcap"
+	"github.com/TaiTitans/TrackingCoin/internal/handler"
+	cmcRepo "github.com/TaiTitans/TrackingCoin/internal/repository/coinmarketcap"
+	cmcService "github.com/TaiTitans/TrackingCoin/internal/service/coinmarketcap"
 )
 
 func InitCMCRouterHandler() (*handler.CMCHandler, error) {
