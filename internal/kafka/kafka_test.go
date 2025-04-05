@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/augustus281/trackingcoin/global"
+	"github.com/TaiTitans/TrackingCoin/global"
 	gomail "gopkg.in/mail.v2"
 )
 
