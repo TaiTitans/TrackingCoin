@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/augustus281/trackingcoin/internal/dto"
+	"github.com/TaiTitans/TrackingCoin/internal/dto"
 )
 
 func TestListing(t *testing.T) {
