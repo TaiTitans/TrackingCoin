@@ -4,7 +4,7 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/crypto/bcrypt"
 
-	"github.com/augustus281/trackingcoin/global"
+	"github.com/TaiTitans/TrackingCoin/global"
 )
 
 func HashPassword(password string) (string, error) {
