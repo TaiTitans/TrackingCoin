@@ -5,8 +5,8 @@ package wire
 import (
 	"github.com/google/wire"
 
-	"github.com/augustus281/trackingcoin/internal/handler"
-	"github.com/augustus281/trackingcoin/internal/service/notification"
+	"github.com/TaiTitans/TrackingCoin/internal/handler"
+	"github.com/TaiTitans/TrackingCoin/internal/service/notification"
 )
 
 func InitNotifyRouterHandler() (*handler.NotifyHandler, error) {
