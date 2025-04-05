@@ -7,7 +7,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/augustus281/trackingcoin/pkg/setting"
+	"github.com/TaiTitans/TrackingCoin/pkg/setting"
 )
 
 type LoggerZap struct {
