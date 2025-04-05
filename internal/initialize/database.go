@@ -7,8 +7,8 @@ import (
 
 	_ "github.com/lib/pq"
 
-	database "github.com/augustus281/trackingcoin/database/sqlc"
-	"github.com/augustus281/trackingcoin/global"
+	database "github.com/TaiTitans/TrackingCoin/database/sqlc"
+	"github.com/TaiTitans/TrackingCoin/global"
 )
 
 func InitDB() {
