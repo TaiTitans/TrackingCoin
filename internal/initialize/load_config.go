@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/viper"
 
-	"github.com/augustus281/trackingcoin/global"
+	"github.com/TaiTitans/TrackingCoin/global"
 )
 
 func LoadConfig() {
