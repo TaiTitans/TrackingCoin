@@ -3,8 +3,8 @@ package routers
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/augustus281/trackingcoin/internal/middlewares"
-	"github.com/augustus281/trackingcoin/internal/wire"
+	"github.com/TaiTitans/TrackingCoin/internal/middlewares"
+	"github.com/TaiTitans/TrackingCoin/internal/wire"
 )
 
 type AssetRouterGroup struct {
