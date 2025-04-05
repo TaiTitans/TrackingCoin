@@ -1,9 +1,9 @@
 package initialize
 
 import (
-	"github.com/augustus281/trackingcoin/global"
-	"github.com/augustus281/trackingcoin/internal/kafka/consumer"
-	"github.com/augustus281/trackingcoin/internal/kafka/producer"
+	"github.com/TaiTitans/TrackingCoin/global"
+	"github.com/TaiTitans/TrackingCoin/internal/kafka/consumer"
+	"github.com/TaiTitans/TrackingCoin/internal/kafka/producer"
 )
 
 func InitKafka() {
