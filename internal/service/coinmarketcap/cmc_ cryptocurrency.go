@@ -10,8 +10,8 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/net/html"
 
-	"github.com/augustus281/trackingcoin/global"
-	"github.com/augustus281/trackingcoin/internal/dto"
+	"github.com/TaiTitans/TrackingCoin/global"
+	"github.com/TaiTitans/TrackingCoin/internal/dto"
 )
 
 func (s *cmcService) GetDetailFromCMC(ctx *gin.Context, slug string) (*dto.Currency, error) {
