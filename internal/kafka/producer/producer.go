@@ -6,7 +6,7 @@ import (
 	"github.com/segmentio/kafka-go"
 	"go.uber.org/zap"
 
-	"github.com/augustus281/trackingcoin/global"
+	"github.com/TaiTitans/TrackingCoin/global"
 )
 
 type Producer struct {
