@@ -5,9 +5,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/augustus281/trackingcoin/global"
-	"github.com/augustus281/trackingcoin/internal/dto"
-	"github.com/augustus281/trackingcoin/internal/util"
+	"github.com/TaiTitans/TrackingCoin/global"
+	"github.com/TaiTitans/TrackingCoin/internal/dto"
+	"github.com/TaiTitans/TrackingCoin/internal/util"
 	"go.uber.org/zap"
 )
 
