@@ -7,14 +7,14 @@
 package wire
 
 import (
-	"github.com/augustus281/trackingcoin/internal/handler"
-	"github.com/augustus281/trackingcoin/internal/repository/asset"
-	"github.com/augustus281/trackingcoin/internal/repository/coinmarketcap"
-	"github.com/augustus281/trackingcoin/internal/repository/user"
-	asset2 "github.com/augustus281/trackingcoin/internal/service/asset"
-	"github.com/augustus281/trackingcoin/internal/service/auth"
-	coinmarketcap2 "github.com/augustus281/trackingcoin/internal/service/coinmarketcap"
-	"github.com/augustus281/trackingcoin/internal/service/notification"
+	"github.com/TaiTitans/TrackingCoin/internal/handler"
+	"github.com/TaiTitans/TrackingCoin/internal/repository/asset"
+	"github.com/TaiTitans/TrackingCoin/internal/repository/coinmarketcap"
+	"github.com/TaiTitans/TrackingCoin/internal/repository/user"
+	asset2 "github.com/TaiTitans/TrackingCoin/internal/service/asset"
+	"github.com/TaiTitans/TrackingCoin/internal/service/auth"
+	coinmarketcap2 "github.com/TaiTitans/TrackingCoin/internal/service/coinmarketcap"
+	"github.com/TaiTitans/TrackingCoin/internal/service/notification"
 )
 
 // Injectors from asset_wire.go:
