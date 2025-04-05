@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/augustus281/trackingcoin/internal/dto"
+	"github.com/TaiTitans/TrackingCoin/internal/dto"
 	"gopkg.in/gomail.v2"
 )
 
