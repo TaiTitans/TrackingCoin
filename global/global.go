@@ -4,9 +4,9 @@ import (
 	"github.com/redis/go-redis/v9"
 	"github.com/segmentio/kafka-go"
 
-	database "github.com/augustus281/trackingcoin/database/sqlc"
-	"github.com/augustus281/trackingcoin/pkg/logger"
-	"github.com/augustus281/trackingcoin/pkg/setting"
+	database "github.com/TaiTitans/TrackingCoin/database/sqlc"
+	"github.com/TaiTitans/TrackingCoin/pkg/logger"
+	"github.com/TaiTitans/TrackingCoin/pkg/setting"
 )
 
 var (
