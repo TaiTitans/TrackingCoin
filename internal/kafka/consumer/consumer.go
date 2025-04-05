@@ -1,7 +1,7 @@
 package consumer
 
 import (
-	"github.com/augustus281/trackingcoin/global"
+	"github.com/TaiTitans/TrackingCoin/global"
 	"github.com/gin-gonic/gin"
 	"github.com/segmentio/kafka-go"
 	"go.uber.org/zap"
