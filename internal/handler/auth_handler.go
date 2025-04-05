@@ -6,9 +6,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 
-	"github.com/augustus281/trackingcoin/global"
-	"github.com/augustus281/trackingcoin/internal/dto"
-	service "github.com/augustus281/trackingcoin/internal/service/auth"
+	"github.com/TaiTitans/TrackingCoin/global"
+	"github.com/TaiTitans/TrackingCoin/internal/dto"
+	service "github.com/TaiTitans/TrackingCoin/internal/service/auth"
 )
 
 type AuthHandler struct {
