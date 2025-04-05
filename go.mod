@@ -1,4 +1,4 @@
-module github.com/augustus281/trackingcoin
+module github.com/TaiTitans/TrackingCoin
 
 go 1.23.4
 
