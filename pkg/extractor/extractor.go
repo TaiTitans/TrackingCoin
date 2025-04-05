@@ -7,7 +7,7 @@ import (
 	"github.com/golang-jwt/jwt/v4"
 	"go.uber.org/zap"
 
-	"github.com/augustus281/trackingcoin/global"
+	"github.com/TaiTitans/TrackingCoin/global"
 )
 
 type Extractor interface {
