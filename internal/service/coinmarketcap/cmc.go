@@ -3,8 +3,8 @@ package coinmarketcap
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/augustus281/trackingcoin/internal/dto"
-	repository "github.com/augustus281/trackingcoin/internal/repository/coinmarketcap"
+	"github.com/TaiTitans/TrackingCoin/internal/dto"
+	repository "github.com/TaiTitans/TrackingCoin/internal/repository/coinmarketcap"
 )
 
 type ICMCService interface {
