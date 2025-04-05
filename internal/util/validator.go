@@ -5,8 +5,8 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/crypto/bcrypt"
 
-	"github.com/augustus281/trackingcoin/global"
-	"github.com/augustus281/trackingcoin/internal/dto"
+	"github.com/TaiTitans/TrackingCoin/global"
+	"github.com/TaiTitans/TrackingCoin/internal/dto"
 )
 
 func Validate(r dto.RegisterRequest) error {
