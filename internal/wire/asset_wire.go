@@ -5,9 +5,9 @@ package wire
 import (
 	"github.com/google/wire"
 
-	"github.com/augustus281/trackingcoin/internal/handler"
-	assetRepo "github.com/augustus281/trackingcoin/internal/repository/asset"
-	assetService "github.com/augustus281/trackingcoin/internal/service/asset"
+	"github.com/TaiTitans/TrackingCoin/internal/handler"
+	assetRepo "github.com/TaiTitans/TrackingCoin/internal/repository/asset"
+	assetService "github.com/TaiTitans/TrackingCoin/internal/service/asset"
 )
 
 func InitAssetRouterHandler() (*handler.AssetHandler, error) {
