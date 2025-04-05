@@ -3,8 +3,8 @@ package initialize
 import (
 	"fmt"
 
-	"github.com/augustus281/trackingcoin/global"
-	"github.com/augustus281/trackingcoin/internal/cronjob"
+	"github.com/TaiTitans/TrackingCoin/global"
+	"github.com/TaiTitans/TrackingCoin/internal/cronjob"
 )
 
 func Run() {
