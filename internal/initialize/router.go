@@ -3,8 +3,8 @@ package initialize
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/augustus281/trackingcoin/global"
-	"github.com/augustus281/trackingcoin/internal/routers"
+	"github.com/TaiTitans/TrackingCoin/global"
+	"github.com/TaiTitans/TrackingCoin/internal/routers"
 )
 
 func InitRouter() *gin.Engine {
