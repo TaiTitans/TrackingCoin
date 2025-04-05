@@ -3,8 +3,8 @@ package handler
 import (
 	"net/http"
 
-	"github.com/augustus281/trackingcoin/internal/dto"
-	"github.com/augustus281/trackingcoin/internal/service/notification"
+	"github.com/TaiTitans/TrackingCoin/internal/dto"
+	"github.com/TaiTitans/TrackingCoin/internal/service/notification"
 	"github.com/gin-gonic/gin"
 )
 
