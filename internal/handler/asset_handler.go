@@ -7,9 +7,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 
-	"github.com/augustus281/trackingcoin/global"
-	service "github.com/augustus281/trackingcoin/internal/service/asset"
-	"github.com/augustus281/trackingcoin/pkg/extractor"
+	"github.com/TaiTitans/TrackingCoin/global"
+	service "github.com/TaiTitans/TrackingCoin/internal/service/asset"
+	"github.com/TaiTitans/TrackingCoin/pkg/extractor"
 )
 
 type AssetHandler struct {
