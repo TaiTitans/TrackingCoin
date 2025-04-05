@@ -4,9 +4,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 
-	"github.com/augustus281/trackingcoin/global"
-	"github.com/augustus281/trackingcoin/internal/dto"
-	repository "github.com/augustus281/trackingcoin/internal/repository/asset"
+	"github.com/TaiTitans/TrackingCoin/global"
+	"github.com/TaiTitans/TrackingCoin/internal/dto"
+	repository "github.com/TaiTitans/TrackingCoin/internal/repository/asset"
 )
 
 type IAssetService interface {
